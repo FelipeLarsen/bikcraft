@@ -19,7 +19,7 @@
 .parceiros li {
   display: flex;
   padding: 32px;
-  border-left: 2px solid var(--cor-2);
+  border-left: 2px solid var(--cor-1);
 }
 
 .parceiros li:first-child,
@@ -28,7 +28,7 @@
 }
 
 .parceiros li:nth-child(n + 5) {
-  border-top: 2px solid var(--cor-2);
+  border-top: 2px solid var(--cor-1);
 }
 
 .parceiros img {
@@ -53,7 +53,7 @@
   }
 
   .parceiros li:nth-child(n + 3) {
-    border-top: 2px solid var(--cor-2);
+    border-top: 2px solid var(--cor-1);
   }
 
   .parceiros li:nth-child(odd) {

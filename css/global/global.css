@@ -12,7 +12,8 @@ h3,
 h4,
 p,
 blockquote,
-span {
+span,
+dd {
   margin: 0px;
   padding: 0px;
   list-style: none;
